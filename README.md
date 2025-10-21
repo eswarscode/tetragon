@@ -12,7 +12,7 @@
 ---
 
 Cilium’s new [Tetragon](https://tetragon.io) component enables powerful
-real-time, eBPF-based Security Observability and Runtime Enforcement.
+real time, eBPF-based Security Observability and Runtime Enforcement.
 
 Tetragon detects and is able to react to security-significant events, such as
 
